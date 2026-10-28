@@ -1,0 +1,4 @@
+http://localhost:8080/chat?message=Java%2021%20hakk%C4%B1nda%20bilgi%20ver
+
+http://localhost:8080/chat?message=merhaba
+
